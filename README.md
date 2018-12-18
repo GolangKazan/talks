@@ -6,7 +6,7 @@
 
 Доклады:
 * [Надо всё переписать на Go](https://docs.google.com/presentation/d/1L18EgsN_0s0FeOexlvCWIf5bMwR59KiYkjARgrMMtDw/edit?usp=sharing) {[Искандер Шарипов](https://github.com/Quasilyte/)}
-* [Личная боль при работе с БД в Go](https://speakerdeck.com/quasilyte/lichnaia-bol-pri-rabotie-s-bd-v-go) {Роберт Егоров}
+* [Личная боль при работе с БД в Go](https://speakerdeck.com/quasilyte/lichnaia-bol-pri-rabotie-s-bd-v-go) {[Роберт Егоров](t.me/regorov)}
 * [Go +5 к пользе, -5 к боли](https://prezi.com/view/G9blK5hgorxroSCMPGGD/) {Александр Немтарёв}
 
 ## Митап [Happy new Go year](https://www.meetup.com/Golang-Tatarstan/events/257152659/)
