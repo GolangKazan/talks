@@ -16,7 +16,7 @@
 **Место:** GrowUp коворкинг, Айвазовского 3а.
 
 **Доклады:**
-* Как не утонуть в ошибках {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
+* [Как не утонуть в ошибках](https://speakerdeck.com/quasilyte/kak-nie-utonut-v-oshibkakh) {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
 * Обзор фреймворка для микросервисов micro.mu {[Антон Кучеров](https://idexter.ru/)}
 * [Наследить так, чтобы рекрутеры не давали покоя](https://speakerdeck.com/quasilyte/nasliedit-tak-chtoby-riekrutiery-nie-davali-pokoia) {[Ольга Смирнова](https://vk.com/olga_luzhajka)}
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
