@@ -17,7 +17,7 @@
 
 **Доклады:**
 * [Как не утонуть в ошибках](https://speakerdeck.com/quasilyte/kak-nie-utonut-v-oshibkakh) {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
-* Обзор фреймворка для микросервисов micro.mu {[Антон Кучеров](https://idexter.ru/)}
+* [Микросервисы с go-micro](https://speakerdeck.com/quasilyte/mikrosiervisy-s-go-micro) {[Антон Кучеров](https://idexter.ru/)}
 * [Наследить так, чтобы рекрутеры не давали покоя](https://speakerdeck.com/quasilyte/nasliedit-tak-chtoby-riekrutiery-nie-davali-pokoia) {[Ольга Смирнова](https://vk.com/olga_luzhajka)}
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
 * [Полезняшки для Go разработчика](https://github.com/Quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/Quasilyte/)}
