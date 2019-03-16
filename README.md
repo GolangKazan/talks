@@ -21,3 +21,13 @@
 * [Наследить так, чтобы рекрутеры не давали покоя](https://speakerdeck.com/quasilyte/nasliedit-tak-chtoby-riekrutiery-nie-davali-pokoia) {[Ольга Смирнова](https://vk.com/olga_luzhajka)}
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
 * [Полезняшки для Go разработчика](https://github.com/Quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/Quasilyte/)}
+
+## Митап [March of the Go](https://www.meetup.com/GolangKazan/events/259259587/)
+
+**Дата проведения:** 15 марта, 2019.<br>
+**Место:** IT парк, Петербургская 52.
+
+**Доклады:**
+* [Веб-разработка на Go](https://speakerdeck.com/quasilyte/vieb-razrabotka-na-go) {[Алексей Павлюков](https://github.com/a5i)}
+* [ORY.sh - authorize it](https://speakerdeck.com/quasilyte/ory-dot-sh-authorize-it) {[Алексей Пиянин](https://github.com/7phs)}
+* [Подготовка релизов с goreleaser](https://speakerdeck.com/quasilyte/podghotovka-rielizov-s-goreleaser) {[Антон Кучеров](https://idexter.ru/)}
