@@ -31,3 +31,13 @@
 * [Веб-разработка на Go](https://speakerdeck.com/quasilyte/vieb-razrabotka-na-go) {[Алексей Павлюков](https://github.com/a5i)}
 * [ORY.sh - authorize it](https://speakerdeck.com/quasilyte/ory-dot-sh-authorize-it) {[Алексей Пиянин](https://github.com/7phs)}
 * [Подготовка релизов с goreleaser](https://speakerdeck.com/quasilyte/podghotovka-rielizov-s-goreleaser) {[Антон Кучеров](https://idexter.ru/)}
+
+## Митап [Go Meetup April](https://www.meetup.com/GolangKazan/events/260334878/)
+
+**Дата проведения:** 28 апреля, 2019.<br>
+**Место:** офис FIX, Петербургская 52.
+
+**Доклады**:
+* Гоферизация питонистов для чайников {Иоанна}
+* Go modules: overview {Ринат Байгильдин}
+* Тестирование в Go {[Алик Хилажев](http://GitHub.com/alikhil)}
