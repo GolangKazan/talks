@@ -1,4 +1,4 @@
-# Доклады с мероприятий [GolangKazan](https://vk.com/GolangKazan)
+# Доклады с мероприятий #[GolangKazan](https://vk.com/GolangKazan)
 
 ## Митап [Пора переходить на Go](https://www.meetup.com/GolangKazan/events/256726987/)
 
