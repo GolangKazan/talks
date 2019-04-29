@@ -39,5 +39,5 @@
 
 **Доклады**:
 * [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/joashev)}
-* Go modules: overview {[Ринат Байгильдин](https://github.com/bayrinat)}
+* [Go modules: overview](https://speakerdeck.com/quasilyte/go-modules-overview) {[Ринат Байгильдин](https://github.com/bayrinat)}
 * [Тестирование в Go](https://speakerdeck.com/alikhil/tiestirovaniie-v-go) {[Алик Хилажев](http://GitHub.com/alikhil)}
