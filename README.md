@@ -40,4 +40,4 @@
 **Доклады**:
 * Гоферизация питонистов для чайников {Иоанна Шевчук}
 * Go modules: overview {Ринат Байгильдин}
-* [Тестирование в Go](https://github.com/GolangKazan/talks/files/3127583/GoMeetup28April3.pdf) {[Алик Хилажев](http://GitHub.com/alikhil)}
+* [Тестирование в Go](https://speakerdeck.com/alikhil/tiestirovaniie-v-go) {[Алик Хилажев](http://GitHub.com/alikhil)}
