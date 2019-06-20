@@ -22,6 +22,8 @@
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
 * [Полезняшки для Go разработчика](https://github.com/quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/Quasilyte/)}
 
+Дополнительно: [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0ITisADDsBiP1Sn9b9WxCe-).
+
 ## Митап [March of the Go](https://www.meetup.com/GolangKazan/events/259259587/)
 
 **Дата проведения:** 15 марта, 2019.<br>
