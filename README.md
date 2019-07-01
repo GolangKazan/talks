@@ -10,6 +10,8 @@
 * [Личная боль при работе с БД в Go](https://speakerdeck.com/quasilyte/lichnaia-bol-pri-rabotie-s-bd-v-go) {[Роберт Егоров](t.me/regorov)}
 * [Go +5 к пользе, -5 к боли](https://prezi.com/view/G9blK5hgorxroSCMPGGD/) {Александр Немтарёв}
 
+Дополнительно: [фото](https://vk.com/album-174239157_257715911).
+
 ## Митап [Happy new Go year](https://www.meetup.com/GolangKazan/events/257152659/)
 
 **Дата проведения:** 5 января, 2019.<br>
@@ -22,7 +24,7 @@
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
 * [Полезняшки для Go разработчика](https://github.com/quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/Quasilyte/)}
 
-Дополнительно: [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0ITisADDsBiP1Sn9b9WxCe-).
+Дополнительно: [фото](https://vk.com/album-174239157_258490899), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0ITisADDsBiP1Sn9b9WxCe-).
 
 ## Митап [March of the Go](https://www.meetup.com/GolangKazan/events/259259587/)
 
@@ -34,6 +36,8 @@
 * [ORY.sh - authorize it](https://speakerdeck.com/quasilyte/ory-dot-sh-authorize-it) {[Алексей Пиянин](https://github.com/7phs)}
 * [Подготовка релизов с goreleaser](https://speakerdeck.com/quasilyte/podghotovka-rielizov-s-goreleaser) {[Антон Кучеров](https://idexter.ru/)}
 
+Дополнительно: [фото](https://vk.com/album-174239157_260447021).
+
 ## Митап [Go Meetup April](https://www.meetup.com/GolangKazan/events/260334878/)
 
 **Дата проведения:** 28 апреля, 2019.<br>
@@ -43,6 +47,8 @@
 * [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/joashev)}
 * [Go modules: overview](https://speakerdeck.com/quasilyte/go-modules-overview) {[Ринат Байгильдин](https://github.com/bayrinat)}
 * [Тестирование в Go](https://speakerdeck.com/alikhil/tiestirovaniie-v-go) {[Алик Хилажев](http://GitHub.com/alikhil)}
+
+Дополнительно: [фото](https://vk.com/album-174239157_261601536).
 
 ## Митап [Первый летний Go митап](https://www.meetup.com/GolangKazan/events/262238140/)
 
@@ -55,4 +61,4 @@
 * [Правильная организация рутины](https://speakerdeck.com/quasilyte/pravil-naia-orghanizatsiia-rutiny) {[Александр Кирюхин](https://github.com/neonxp)}
 * [Эволюция реквест валидатора](https://speakerdeck.com/quasilyte/evoliutsiia-riekviest-validatora) {[Михаил Иванов](https://github.com/l1va)}
 
-Дополнительно: видео coming soon.
+Дополнительно: [фото](https://vk.com/album-174239157_263100020), видео coming soon.
