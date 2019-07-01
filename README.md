@@ -52,7 +52,7 @@
 **Доклады:**
 * [Корпоративный шаблон микросервиса на Go](https://speakerdeck.com/quasilyte/korporativnyi-shablon-mikrosiervisa-na-go) {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
 * [Бережная обработка ошибок в микросервисах](https://speakerdeck.com/quasilyte/bieriezhnaia-obrabotka-oshibok-v-mikrosiervisakh) {[Сергей Шамбир](https://vk.com/sshambir)}
-* [Правильная организация рутины](https://speakerdeck.com/quasilyte/pravil-naia-orghanizatsiia-rutiny) {[Александр Кирюхин](github.com/neonxp)}
+* [Правильная организация рутины](https://speakerdeck.com/quasilyte/pravil-naia-orghanizatsiia-rutiny) {[Александр Кирюхин](https://github.com/neonxp)}
 * [Эволюция реквест валидатора](https://speakerdeck.com/quasilyte/evoliutsiia-riekviest-validatora) {[Михаил Иванов](https://github.com/l1va)}
 
 Дополнительно: видео coming soon.
