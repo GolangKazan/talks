@@ -43,3 +43,16 @@
 * [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/joashev)}
 * [Go modules: overview](https://speakerdeck.com/quasilyte/go-modules-overview) {[Ринат Байгильдин](https://github.com/bayrinat)}
 * [Тестирование в Go](https://speakerdeck.com/alikhil/tiestirovaniie-v-go) {[Алик Хилажев](http://GitHub.com/alikhil)}
+
+## Митап [Первый летний Go митап](https://www.meetup.com/GolangKazan/events/262238140/)
+
+**Дата проведения:** 29 июня, 2019.<br>
+**Место:** GrowUp коворкинг, Айвазовского 3а.
+
+**Доклады:**
+* [Корпоративный шаблон микросервиса на Go]() {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
+* [Бережная обработка ошибок в микросервисах](https://speakerdeck.com/quasilyte/bieriezhnaia-obrabotka-oshibok-v-mikrosiervisakh) {[Сергей Шамбир](https://vk.com/sshambir)}
+* [Правильная организация рутины](https://speakerdeck.com/quasilyte/pravil-naia-orghanizatsiia-rutiny) {[Александр Кирюхин](github.com/neonxp)}
+* [Эволюция реквест валидатора](https://speakerdeck.com/quasilyte/evoliutsiia-riekviest-validatora) {[Михаил Иванов](https://github.com/l1va)}
+
+Дополнительно: видео coming soon.
