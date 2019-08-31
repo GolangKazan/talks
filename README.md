@@ -62,3 +62,13 @@
 * [Эволюция реквест валидатора](https://speakerdeck.com/quasilyte/evoliutsiia-riekviest-validatora) {[Михаил Иванов](https://github.com/l1va)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_263100020), видео coming soon.
+
+## Митап [Нижний в Казани](https://www.meetup.com/GolangKazan/events/263197015)
+
+**Дата проведения:** 27 июля, 2019.<br>
+**Место:**: ШТАБ, Тарарстан 20.
+
+**Доклады:**
+* Хэш таблицы в Go: детали реализации {[Дарья Колистратова](https://github.com/dkolistratova)}
+* GORM головного мозга {[Мария Булатова](https://github.com/mbulatova)}
+* Как начать экспериментировать с машинным обучением в Go {[Алексей Павлюков](https://github.com/a5i/)}
