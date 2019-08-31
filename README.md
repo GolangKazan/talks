@@ -70,5 +70,5 @@
 
 **Доклады:**
 * Хэш таблицы в Go: детали реализации {[Дарья Колистратова](https://github.com/dkolistratova)}
-* GORM головного мозга {[Мария Булатова](https://github.com/mbulatova)}
+* [GORM головного мозга](https://speakerdeck.com/quasilyte/gorm-gholovnogho-mozgha) {[Мария Булатова](https://github.com/mbulatova)}
 * Как начать экспериментировать с машинным обучением в Go {[Алексей Павлюков](https://github.com/a5i/)}
