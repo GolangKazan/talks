@@ -69,6 +69,6 @@
 **Место:**: Штаб, Тарарстан 20.
 
 **Доклады:**
-* Хэш таблицы в Go: детали реализации {[Дарья Колистратова](https://github.com/dkolistratova)}
+* [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii-d9fc50ae-f164-44a6-8e79-4256a797e280) {[Дарья Колистратова](https://github.com/dkolistratova)}
 * [GORM головного мозга](https://speakerdeck.com/quasilyte/gorm-gholovnogho-mozgha) {[Мария Булатова](https://github.com/mbulatova)}
 * Как начать экспериментировать с машинным обучением в Go {[Алексей Павлюков](https://github.com/a5i/)}
