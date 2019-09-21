@@ -3,7 +3,7 @@
 ## Митап [Пора переходить на Go](https://www.meetup.com/GolangKazan/events/256726987/)
 
 **Дата проведения:** 2 декабря, 2018.<br>
-**Место:** офис FIX, Петербургская 52.
+**Место:** [офис FIX](https://vk.com/fix_company), Петербургская 52.
 
 **Доклады:**
 * [Надо всё переписать на Go](https://docs.google.com/presentation/d/1L18EgsN_0s0FeOexlvCWIf5bMwR59KiYkjARgrMMtDw/edit?usp=sharing) {[Искандер Шарипов](https://github.com/quasilyte/)}
@@ -15,7 +15,7 @@
 ## Митап [Happy new Go year](https://www.meetup.com/GolangKazan/events/257152659/)
 
 **Дата проведения:** 5 января, 2019.<br>
-**Место:** GrowUp коворкинг, Айвазовского 3а.
+**Место:** [GrowUp коворкинг](https://vk.com/growupplatform), Айвазовского 3а.
 
 **Доклады:**
 * [Как не утонуть в ошибках](https://speakerdeck.com/quasilyte/kak-nie-utonut-v-oshibkakh) {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
@@ -29,7 +29,7 @@
 ## Митап [March of the Go](https://www.meetup.com/GolangKazan/events/259259587/)
 
 **Дата проведения:** 15 марта, 2019.<br>
-**Место:** IT парк, Петербургская 52.
+**Место:** [IT парк](https://vk.com/it_park), Петербургская 52.
 
 **Доклады:**
 * [Веб-разработка на Go](https://speakerdeck.com/quasilyte/vieb-razrabotka-na-go) {[Алексей Павлюков](https://github.com/a5i)}
@@ -41,7 +41,7 @@
 ## Митап [Go Meetup April](https://www.meetup.com/GolangKazan/events/260334878/)
 
 **Дата проведения:** 28 апреля, 2019.<br>
-**Место:** офис FIX, Петербургская 52.
+**Место:** [офис FIX](https://vk.com/fix_company), Петербургская 52.
 
 **Доклады**:
 * [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/joashev)}
@@ -53,7 +53,7 @@
 ## Митап [Первый летний Go митап](https://www.meetup.com/GolangKazan/events/262238140/)
 
 **Дата проведения:** 29 июня, 2019.<br>
-**Место:** GrowUp коворкинг, Айвазовского 3а.
+**Место:** [GrowUp коворкинг](https://vk.com/growupplatform), Айвазовского 3а.
 
 **Доклады:**
 * [Корпоративный шаблон микросервиса на Go](https://speakerdeck.com/quasilyte/korporativnyi-shablon-mikrosiervisa-na-go) {[Илья Шихалеев](https://habr.com/users/ilyashikhaleev/)}
@@ -66,7 +66,7 @@
 ## Митап [Нижний в Казани](https://www.meetup.com/GolangKazan/events/263197015)
 
 **Дата проведения:** 27 июля, 2019.<br>
-**Место:** Штаб, Тарарстан 20.
+**Место:** [Штаб](https://vk.com/kazanspace), Тарарстан 20.
 
 **Доклады:**
 * [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii-d9fc50ae-f164-44a6-8e79-4256a797e280) {[Дарья Колистратова](https://github.com/dkolistratova)}
