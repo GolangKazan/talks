@@ -22,7 +22,7 @@
 * [Микросервисы с go-micro](https://speakerdeck.com/quasilyte/mikrosiervisy-s-go-micro) {[Антон Кучеров](https://idexter.ru/)}
 * [Наследить так, чтобы рекрутеры не давали покоя](https://speakerdeck.com/quasilyte/nasliedit-tak-chtoby-riekrutiery-nie-davali-pokoia) {[Ольга Смирнова](https://vk.com/olga_luzhajka)}
 * [Сборка сервисов в docker через docker в docker](https://speakerdeck.com/quasilyte/docker-v-docker-dlia-sborki-v-docker) {[Сергей Шамбир](https://vk.com/sshambir)}
-* [Полезняшки для Go разработчика](https://github.com/quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/Quasilyte/)}
+* [Полезняшки для Go разработчика](https://github.com/quasilyte/talks/raw/master/2019-5-Jan-kazan/go_goodies.pdf) {[Искандер Шарипов](https://github.com/quasilyte/)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_258490899), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0ITisADDsBiP1Sn9b9WxCe-).
 
@@ -66,9 +66,21 @@
 ## Митап [Нижний в Казани](https://www.meetup.com/GolangKazan/events/263197015)
 
 **Дата проведения:** 27 июля, 2019.<br>
-**Место:**: Штаб, Тарарстан 20.
+**Место:** Штаб, Тарарстан 20.
 
 **Доклады:**
 * [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii-d9fc50ae-f164-44a6-8e79-4256a797e280) {[Дарья Колистратова](https://github.com/dkolistratova)}
 * [GORM головного мозга](https://speakerdeck.com/quasilyte/gorm-gholovnogho-mozgha) {[Мария Булатова](https://github.com/mbulatova)}
 * [Как начать экспериментировать с машинным обучением в Go](https://speakerdeck.com/quasilyte/kak-nachat-ekspierimientirovat-s-mashinnym-obuchieniiem-v-go) {[Алексей Павлюков](https://github.com/a5i/)}
+
+
+## Митап [Космический](https://www.meetup.com/GolangKazan/events/264819753/)
+
+**Дата проведения:** 22 сентября, 2019.<br>
+**Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
+
+**Доклады:**
+* Colly: обзор фреймворка для веб-скрейпинга на Go {[Иоанна Шевчук](https://github.com/joashev)}
+* Рисуем гоферов средствами стандартной библиотеки {[Искандер Шарипов](https://github.com/quasilyte/)}
+* С чего начать писать тесты в Go? {Максим Голубев}
+
