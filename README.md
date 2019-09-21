@@ -61,7 +61,7 @@
 * [Правильная организация рутины](https://speakerdeck.com/quasilyte/pravil-naia-orghanizatsiia-rutiny) {[Александр Кирюхин](https://github.com/neonxp)}
 * [Эволюция реквест валидатора](https://speakerdeck.com/quasilyte/evoliutsiia-riekviest-validatora) {[Михаил Иванов](https://github.com/l1va)}
 
-Дополнительно: [фото](https://vk.com/album-174239157_263100020), видео coming soon.
+Дополнительно: [фото](https://vk.com/album-174239157_263100020), [видео](https://www.youtube.com/watch?v=NDqreBx3K0Y&list=PLAjl-3QkinHtJrX7qxyEG_7GHxN4LqDX9).
 
 ## Митап [Нижний в Казани](https://www.meetup.com/GolangKazan/events/263197015)
 
