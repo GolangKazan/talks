@@ -84,3 +84,4 @@
 * [Рисуем гоферов средствами стандартной библиотеки](https://speakerdeck.com/quasilyte/risuiem-ghofierov-sriedstvami-standartnoi-bibliotieki) {[Искандер Шарипов](https://github.com/quasilyte/)}
 * [С чего начать писать тесты в Go?](https://speakerdeck.com/quasilyte/s-chiegho-nachat-pisat-tiesty-v-go) {[Максим Голубев](https://github.com/golubev-ml)}
 
+Дополнительно: [фото](https://vk.com/album-174239157_265703281).
