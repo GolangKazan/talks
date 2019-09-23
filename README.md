@@ -80,7 +80,7 @@
 **Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
 
 **Доклады:**
-* Colly: обзор фреймворка для веб-скрейпинга на Go {[Иоанна Шевчук](https://github.com/joashev)}
-* Рисуем гоферов средствами стандартной библиотеки {[Искандер Шарипов](https://github.com/quasilyte/)}
-* С чего начать писать тесты в Go? {[Максим Голубев](https://github.com/golubev-ml)}
+* [Colly: обзор фреймворка для веб-скрейпинга на Go](https://speakerdeck.com/djeanne/colly-a-review-of-a-web-scraping-framework-in-go) {[Иоанна Шевчук](https://github.com/joashev)}
+* [Рисуем гоферов средствами стандартной библиотеки](https://speakerdeck.com/quasilyte/risuiem-ghofierov-sriedstvami-standartnoi-bibliotieki) {[Искандер Шарипов](https://github.com/quasilyte/)}
+* [С чего начать писать тесты в Go?](https://speakerdeck.com/quasilyte/s-chiegho-nachat-pisat-tiesty-v-go) {[Максим Голубев](https://github.com/golubev-ml)}
 
