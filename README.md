@@ -44,7 +44,7 @@
 **Место:** [офис FIX](https://vk.com/fix_company), Петербургская 52.
 
 **Доклады**:
-* [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/joashev)}
+* [Гоферизация питонистов для чайников](https://speakerdeck.com/quasilyte/gofierizatsiia-pitonistov-dlia-chainikov) {[Иоанна Шевчук](https://github.com/djeanne)}
 * [Go modules: overview](https://speakerdeck.com/quasilyte/go-modules-overview) {[Ринат Байгильдин](https://github.com/bayrinat)}
 * [Тестирование в Go](https://speakerdeck.com/alikhil/tiestirovaniie-v-go) {[Алик Хилажев](http://GitHub.com/alikhil)}
 
@@ -80,7 +80,7 @@
 **Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
 
 **Доклады:**
-* [Colly: обзор фреймворка для веб-скрейпинга на Go](https://speakerdeck.com/djeanne/colly-a-review-of-a-web-scraping-framework-in-go) {[Иоанна Шевчук](https://github.com/joashev)}
+* [Colly: обзор фреймворка для веб-скрейпинга на Go](https://speakerdeck.com/djeanne/colly-a-review-of-a-web-scraping-framework-in-go) {[Иоанна Шевчук](https://github.com/djeanne)}
 * [Рисуем гоферов средствами стандартной библиотеки](https://speakerdeck.com/quasilyte/risuiem-ghofierov-sriedstvami-standartnoi-bibliotieki) {[Искандер Шарипов](https://github.com/quasilyte/)}
 * [С чего начать писать тесты в Go?](https://speakerdeck.com/quasilyte/s-chiegho-nachat-pisat-tiesty-v-go) {[Максим Голубев](https://github.com/golubev-ml)}
 
