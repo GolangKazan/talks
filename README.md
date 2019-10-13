@@ -85,3 +85,15 @@
 * [С чего начать писать тесты в Go?](https://speakerdeck.com/quasilyte/s-chiegho-nachat-pisat-tiesty-v-go) {[Максим Голубев](https://github.com/golubev-ml)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_265703281).
+
+## Митап [2^3](https://www.meetup.com/GolangKazan/events/264886688/)
+
+**Дата проведения:** 13 октября, 2019.<br>
+**Место:** [Точка кипения](https://vk.com/tboil.tatar), Петербургская 52.
+
+**Доклады:**
+* [Доставка live-video на Go](https://speakerdeck.com/quasilyte/dostavka-live-video-na-go) {[Илья Щербак](https://vk.com/id5049962)}
+* [Поговорим об Open Source](https://speakerdeck.com/olegkovalov/poghovorim-ob-open-source) {[Олег Ковалёв](http://github.com/cristaloleg/)}
+* [Лучшие практики в Go и новости из 1.13](https://speakerdeck.com/quasilyte/best-practices-for-cloud-native-go-services) {[Елена Граховац](https://github.com/rumyantseva)}
+
+Дополнительно: [фото](https://vk.com/album-174239157_266369989).
