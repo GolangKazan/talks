@@ -96,4 +96,4 @@
 * [Поговорим об Open Source](https://speakerdeck.com/olegkovalov/poghovorim-ob-open-source) {[Олег Ковалёв](http://github.com/cristaloleg/)}
 * [Лучшие практики в Go и новости из 1.13](https://speakerdeck.com/quasilyte/best-practices-for-cloud-native-go-services) {[Елена Граховац](https://github.com/rumyantseva)}
 
-Дополнительно: [фото](https://vk.com/album-174239157_266369989).
+Дополнительно: [фото](https://vk.com/album-174239157_266369989), [видео](https://www.youtube.com/watch?v=RU4rCHMtnyE&list=PLAjl-3QkinHsrq4bluz_qzzShUI4HiRUE).
