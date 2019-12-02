@@ -97,3 +97,15 @@
 * [Лучшие практики в Go и новости из 1.13](https://speakerdeck.com/quasilyte/best-practices-for-cloud-native-go-services) {[Елена Граховац](https://github.com/rumyantseva)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_266369989), [видео](https://www.youtube.com/watch?v=RU4rCHMtnyE&list=PLAjl-3QkinHsrq4bluz_qzzShUI4HiRUE).
+
+## Митап [Fancy hats](https://www.meetup.com/GolangKazan/events/266534841/)
+
+**Дата проведения:** 30 ноября, 2019.<br>
+**Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
+
+**Доклады:**
+* [Extending Python with Compiled Languages](TODO) {[Эмиль Шарифуллин](TODO)}
+* [Что нас ждёт в Go 1.14](TODO) {[Дмитрий Матрёничев](TODO)}
+* [Going Secure with Go](TODO) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
+
+Дополнительно: [фото](TODO), [видео](TODO).
