@@ -104,7 +104,7 @@
 **Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
 
 **Доклады:**
-* [Extending Python with Compiled Languages](TODO) {[Эмиль Шарифуллин](TODO)}
+* [Extending Python with Compiled Languages](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
 * [Что нас ждёт в Go 1.14](TODO) {[Дмитрий Матрёничев](TODO)}
 * [Going Secure with Go](TODO) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
 
