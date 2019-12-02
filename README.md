@@ -105,7 +105,7 @@
 
 **Доклады:**
 * [Extending Python with Compiled Languages](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
-* [Что нас ждёт в Go 1.14](TODO) {[Дмитрий Матрёничев](TODO)}
+* [Что нас ждёт в Go 1.14](TODO) {[Дмитрий Матрёничев](https://t.me/nseccorp)}
 * [Going Secure with Go](TODO) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
 
 Дополнительно: [фото](TODO), [видео](TODO).
