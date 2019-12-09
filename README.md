@@ -108,4 +108,4 @@
 * [Что нас ждёт в Go 1.14](TODO) {[Дмитрий Матрёничев](https://t.me/nseccorp)}
 * [Going Secure with Go](TODO) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
 
-Дополнительно: [фото](TODO), [видео](TODO).
+Дополнительно: [фото](TODO), [видео](https://www.youtube.com/playlist?list=PL_Umw6kCTFmtGJljQjwc9sfa5GElgbfuN).
