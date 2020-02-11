@@ -104,7 +104,7 @@
 **Место:** [Телеграф Space](https://vk.com/telegrafspace), Пушкина 54, 3 этаж.
 
 **Доклады:**
-* [Extending Python with Compiled Languages](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
+* [Extending Python with Compiled Languages](https://speakerdeck.com/quasilyte/extending-python-with-compiled-languages) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
 * [Что нас ждёт в Go 1.14](https://www.youtube.com/watch?v=QMMm6OEH5Ds) {[Дмитрий Матрёничев](https://t.me/nseccorp)}
 * [Going Secure with Go](https://www.youtube.com/watch?v=KFp_q8MKjKc) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
 
