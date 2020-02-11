@@ -109,3 +109,15 @@
 * [Going Secure with Go](https://www.youtube.com/watch?v=KFp_q8MKjKc) {[Natalie Pistunovich](https://twitter.com/nataliepis)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_267888193), [видео](https://www.youtube.com/playlist?list=PL_Umw6kCTFmtGJljQjwc9sfa5GElgbfuN).
+
+## Митап [A-level](https://www.meetup.com/GolangKazan/events/267773586/)
+
+**Дата проведения:** 8 февраля, 2020.<br>
+**Место:** [Штаб](https://vk.com/kazanspace), Тарарстан 20.
+
+**Доклады:**
+* [Разбор и сравнение данных в большом XML на маленькой VDS](https://speakerdeck.com/quasilyte/razbor-i-sravnieniie-dannykh-v-bol-shom-xml-na-malien-koi-vds) {[Филипп Кулин](https://twitter.com/schors)}
+* [Работа с миграциями базы данных в Go](https://speakerdeck.com/quasilyte/rabota-s-mighratsiiami-v-go) {[Тамара Веденина](https://twitter.com/tamaravedenina)}
+* [“Go, please”: language server под микроскопом](https://slides.com/nezorflame/20200208_gopls#/) {[Илья Данилкин](http://github.com/nezorflame)}
+* [CI/CD для Go проектов на drone.io](https://speakerdeck.com/quasilyte/cd-dlia-go-proiektov-na-drone-dot-io) {[Алик Хилажев](http://GitHub.com/alikhil)}
+
