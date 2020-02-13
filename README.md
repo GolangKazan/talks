@@ -121,5 +121,5 @@
 * [“Go, please”: language server под микроскопом](https://slides.com/nezorflame/20200208_gopls#/) {[Илья Данилкин](http://github.com/nezorflame)}
 * [CI/CD для Go проектов на drone.io](https://speakerdeck.com/quasilyte/cd-dlia-go-proiektov-na-drone-dot-io) {[Алик Хилажев](http://GitHub.com/alikhil)}
 
-Дополнительно: [видео](https://www.youtube.com/watch?v=zwzaS8OWapY).
+Дополнительно: [видео](https://www.youtube.com/watch?v=zwzaS8OWapY), [статья на хабре](https://habr.com/ru/company/avito/blog/488214/).
 
