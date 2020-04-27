@@ -123,3 +123,23 @@
 
 Дополнительно: [видео](https://www.youtube.com/watch?v=zwzaS8OWapY), [статья на хабре](https://habr.com/ru/company/avito/blog/488214/).
 
+## Митап [Stay home and GOnline](https://www.meetup.com/GolangKazan/events/269888458/)
+
+**Дата проведения:** 25 апреля, 2020.<br>
+**Место:** онлайн.
+
+**Доклады (зал 1):**
+
+* [Go Data Concurrency Detection](https://speakerdeck.com/quasilyte/go-data-concurrency-detection) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
+* [Live перезагрузка кода в Go](https://speakerdeck.com/quasilyte/live-pieriezaghruzka-koda-v-go) {[Юрий Насретдинов](https://twitter.com/YNasretdinov/)}
+* [Конфигурируем http и db пакеты](https://speakerdeck.com/quasilyte/konfighuriruiem-http-i-db-pakiety) {[Илья Богданов]()}
+* [How to design a library](https://speakerdeck.com/quasilyte/how-to-design-a-library) {[Богдан Сторожук](https://twitter.com/BStorozhuk)}
+
+**Доклады (зал 2):**
+
+* [How to do regexp analysis](https://speakerdeck.com/quasilyte/how-to-do-regexp-analysis) {[Искандер Шарипов](https://github.com/quasilyte/)}
+* [Code generation tips and tricks](https://go-talks.appspot.com/github.com/superstas/talks/2020/04/main.slide#1) {[Станислав Афанасьев](https://twitter.com/superstas88)}
+* [Geo Search: MongoDB vs S2 Geometry]() {[Степан Пестерников](https://github.com/pshopper)}
+* [Работа с моделями машинного обучения под Tensorflow](https://speakerdeck.com/quasilyte/rabota-s-modieliami-mashinnogho-obuchieniia-pod-tensorflow) {[Артемий Рябинков](https://github.com/furdarius)}
+
+Дополнительно: [видео (зал 1)](https://youtu.be/jNsrnuE32JU), [видео (зал 2)](https://youtu.be/rMx3n0NTfZQ), [анонс на хабре](https://habr.com/ru/company/avito/blog/497562/).
