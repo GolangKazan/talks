@@ -139,7 +139,7 @@
 
 * [How to do regexp analysis](https://speakerdeck.com/quasilyte/how-to-do-regexp-analysis) {[Искандер Шарипов](https://github.com/quasilyte/)}
 * [Code generation tips and tricks](https://go-talks.appspot.com/github.com/superstas/talks/2020/04/main.slide#1) {[Станислав Афанасьев](https://twitter.com/superstas88)}
-* [Geo Search: MongoDB vs S2 Geometry]() {[Степан Пестерников](https://github.com/pshopper)}
+* [Geo Search: MongoDB vs S2 Geometry](https://speakerdeck.com/quasilyte/geo-search-mongodb-vs-s2-geometry) {[Степан Пестерников](https://github.com/pshopper)}
 * [Работа с моделями машинного обучения под Tensorflow](https://speakerdeck.com/quasilyte/rabota-s-modieliami-mashinnogho-obuchieniia-pod-tensorflow) {[Артемий Рябинков](https://github.com/furdarius)}
 
 Дополнительно: [видео (зал 1)](https://youtu.be/jNsrnuE32JU), [видео (зал 2)](https://youtu.be/rMx3n0NTfZQ), [анонс на хабре](https://habr.com/ru/company/avito/blog/497562/).
