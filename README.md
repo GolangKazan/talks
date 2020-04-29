@@ -132,7 +132,7 @@
 
 * [Go Data Concurrency Detection](https://speakerdeck.com/quasilyte/go-data-concurrency-detection) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
 * [Live перезагрузка кода в Go](https://speakerdeck.com/quasilyte/live-pieriezaghruzka-koda-v-go) {[Юрий Насретдинов](https://twitter.com/YNasretdinov/)}
-* [Конфигурируем http и db пакеты](https://speakerdeck.com/quasilyte/konfighuriruiem-http-i-db-pakiety) {[Илья Богданов]()}
+* [Конфигурируем http и db пакеты](https://speakerdeck.com/quasilyte/konfighuriruiem-http-i-db-pakiety) {[Илья Богданов](https://github.com/Warboss-rus)}
 * [How to design a library](https://speakerdeck.com/quasilyte/how-to-design-a-library) {[Богдан Сторожук](https://twitter.com/BStorozhuk)}
 
 **Доклады (зал 2):**
