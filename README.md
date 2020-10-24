@@ -143,3 +143,15 @@
 * [Работа с моделями машинного обучения под Tensorflow](https://speakerdeck.com/quasilyte/rabota-s-modieliami-mashinnogho-obuchieniia-pod-tensorflow) {[Артемий Рябинков](https://github.com/furdarius)}
 
 Дополнительно: [видео (зал 1)](https://youtu.be/jNsrnuE32JU), [видео (зал 2)](https://youtu.be/rMx3n0NTfZQ), [анонс на хабре](https://habr.com/ru/company/avito/blog/497562/), [отчёт на хабре](https://habr.com/ru/company/avito/blog/499458/).
+
+## Митап [Gophers & Dragons: online](https://www.meetup.com/GolangKazan/events/273404406/)
+
+**Дата проведения:** 26 сентября, 2020.<br>
+**Место:** онлайн.
+
+**Доклады:**
+
+* [PHP Parser на Go](TODO) {[Вадим Слизов](https://github.com/z7zmey)}
+* [Поиск утечек в Go коде](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
+
+Дополнительно: [видео](https://www.youtube.com/watch?v=SPnmcDWyJzs&t=1042s).
