@@ -151,7 +151,7 @@
 
 **Доклады:**
 
-* [PHP Parser на Go](TODO) {[Вадим Слизов](https://github.com/z7zmey)}
+* [PHP Parser на Go](https://speakerdeck.com/quasilyte/php-parser-na-golang) {[Вадим Слизов](https://github.com/z7zmey)}
 * [Поиск утечек в Go коде](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
 
 Дополнительно: [видео](https://www.youtube.com/watch?v=SPnmcDWyJzs&t=1042s).
