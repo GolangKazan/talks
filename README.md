@@ -163,9 +163,9 @@
 
 **Доклады:**
 
-* [Тестирование (микро)сервисов]()
-* [Dependency Injection and it’s friends]()
-* [Чистая архитектура в автоматизации]()
-* [Go-Swagger в продуктиве: взлеты и падения]()
+* [Тестирование (микро)сервисов]() {[Алексей Палажченко](https://github.com/AlekSi)}
+* [Dependency Injection and it’s friends]() {[Антон Кучеров](https://idexter.ru/)}
+* [Чистая архитектура в автоматизации]() {[Сергей Шамбир](https://vk.com/sshambir)}
+* [Go-Swagger в продуктиве: взлеты и падения]() {[Илья Казначеев](https://github.com/ilyakaznacheev)}
 
 Дополнительно: [видео](https://www.youtube.com/watch?v=_RXiX71mMzU).
