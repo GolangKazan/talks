@@ -155,3 +155,17 @@
 * [Поиск утечек в Go коде](TODO) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
 
 Дополнительно: [видео](https://www.youtube.com/watch?v=SPnmcDWyJzs&t=1042s).
+
+## Митап [Карантин, Go away](https://golang-yola.timepad.ru/event/1317897/)
+
+**Дата проведения:** 30 мая, 2020.<br>
+**Место:** онлайн.
+
+**Доклады:**
+
+* [Тестирование (микро)сервисов]()
+* [Dependency Injection and it’s friends]()
+* [Чистая архитектура в автоматизации]()
+* [Go-Swagger в продуктиве: взлеты и падения]()
+
+Дополнительно: [видео](https://www.youtube.com/watch?v=_RXiX71mMzU).
