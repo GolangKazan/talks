@@ -169,3 +169,16 @@
 * [Go-Swagger в продуктиве: взлеты и падения]() {[Илья Казначеев](https://github.com/ilyakaznacheev)}
 
 Дополнительно: [видео](https://www.youtube.com/watch?v=_RXiX71mMzU).
+
+## Митап [Go оффлайн!](https://www.eventbrite.com/e/it-talk-golang-tickets-252015734847)
+
+**Дата проведения:** 5 февраля, 2022.<br>
+**Место:** IT-парк.
+
+**Доклады:**
+
+* [FerretDB: Песнь Хорьков и Гоферов](https://speakerdeck.com/aleksi/piesn-khor-kov-i-gofierov) {[Алексей Палажченко](https://github.com/AlekSi)}
+* [Serverless-in-production](https://slides.com/ruslanfirefly/serverless-in-production-60e932) {[Руслан Серкин](https://github.com/ruslanfirefly)}
+* [profile-guided code analysis](https://speakerdeck.com/quasilyte/profile-guided-code-analysis) {[Искандер Шарипов](https://github.com/quasilyte)}
+
+Дополнительно: [фото](https://vk.com/album-174239157_281378028).
