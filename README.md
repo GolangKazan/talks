@@ -182,3 +182,15 @@
 * [profile-guided code analysis](https://speakerdeck.com/quasilyte/profile-guided-code-analysis) {[Искандер Шарипов](https://github.com/quasilyte)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_281378028).
+
+## Митап [внезапный](https://golang-kazan.timepad.ru/event/2486853/)
+
+**Дата проведения:** 5 июля, 2023.<br>
+**Место:** [Тинькофф](https://t.me/itstinkoff), БЦ URBAN, ул. Островского д. 98.
+
+**Доклады:**
+
+* [Инструмент для визуального поиска и приоритезации техдолга](https://docs.google.com/presentation/d/1fqmNTQyDgoOExvF0VB-EB7mJli9dDcvIndxXfc3B4SQ/edit?usp=drivesdk) {[Никита Русин](https://github.com/rusinikita)}
+* [Тестирование Go кода с PostgreSQL](https://drive.google.com/file/d/1fnlBVwL7q8wljobOJFanP6E51fmkZOlT/view?usp=sharing) {[Василий Василюк](https://github.com/xorcare/testing-go-code-with-postgres)}
+
+Дополнительно: [фото](https://vk.com/album-174239157_293251026).
