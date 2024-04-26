@@ -194,3 +194,17 @@
 * [Тестирование Go кода с PostgreSQL](https://drive.google.com/file/d/1fnlBVwL7q8wljobOJFanP6E51fmkZOlT/view?usp=sharing) {[Василий Василюк](https://github.com/xorcare/testing-go-code-with-postgres)}
 
 Дополнительно: [фото](https://vk.com/album-174239157_293251026).
+
+## Митап [Тинькофф Техтолк для Go разработчиков](https://meetup.tinkoff.ru/event/tinkoff-tehtolk-dlya-go-razrabotchikov/)
+
+**Дата проведения:** 11 апреля, 2024.<br>
+**Место:** [Тинькофф](https://t.me/itstinkoff), БЦ URBAN, ул. Островского д. 98.
+
+**Доклады:**
+
+* [Range Func](https://drive.google.com/file/d/1VP8ifjdCnpJIMTiXTLU-xQajwLZ_WLDT/view?usp=sharing) {[Эмиль Шарифуллин](https://github.com/litleleprikon)}
+* [DDD в Golang. Реализация публикации доменных событий и их обработки](https://drive.google.com/file/d/1hAM_x2J8wV3hn_5vcNtUmkJxM9FW5GGr/view?usp=sharing) {[Василий Василюк](https://github.com/xorcare)}
+* [Postman, GitFlow и автоматизация.](https://docs.google.com/presentation/d/1PK050UULIUJzfK9KRvoDmuTNtZCghj7WGXmp71xbHBU/edit?usp=sharing) {[Максим Пестов](https://www.twitch.tv/demoneno4ec)}
+
+Дополнительно: [фото](https://vk.com/album-174239157_301345123).
+
